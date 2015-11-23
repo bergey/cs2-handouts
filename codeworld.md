@@ -9,3 +9,4 @@ This page collects the Codeworld pages that I've been using as slides
 * [Comparing Recursion & Iteration](https://codeworld.info/run.html?hash=P7gE0hbW0Y0cDQ7LPyNOh3Q)
 * [User-defined Data types](https://codeworld.info/#PWggvvpMUuqdJfLf2UFvFBg)
 * [Recursive String Functions](https://codeworld.info/#PyW095XrozZJQ2-EeSFL2tw)
+* [Higher Order Functions](https://codeworld.info/#PdYoR01FnqdFUpdNeJxSLfA)
