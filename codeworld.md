@@ -12,4 +12,4 @@ This page collects the Codeworld pages that I've been using as slides
 * [Higher Order Functions](https://code.world/#PdYoR01FnqdFUpdNeJxSLfA)
 * [Project - More Higher Order Functions](https://code.world/#P0xKceRhW0oBLKGiMQjw6hQ)
 * [Understanding Type Errors](https://code.world/#PuAWdWzrDcfpcX5usa06FSA)
-* [Type Classes Intro](https://code.world/#PuAWdWzrDcfpcX5usa06FSA)
+* [Type Classes Intro](https://code.world/#P4ODUZOFp241TVFK0dT7vUQ)
