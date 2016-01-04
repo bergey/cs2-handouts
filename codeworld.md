@@ -13,3 +13,4 @@ This page collects the Codeworld pages that I've been using as slides
 * [Project - More Higher Order Functions](https://code.world/#P0xKceRhW0oBLKGiMQjw6hQ)
 * [Understanding Type Errors](https://code.world/#PuAWdWzrDcfpcX5usa06FSA)
 * [Type Classes Intro](https://code.world/#P4ODUZOFp241TVFK0dT7vUQ)
+* [Mapping with Functors](https://code.world/haskell#QzMdJS4RUYrB3bSOtmtZtfA)
